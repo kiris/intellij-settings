@@ -1,6 +1,9 @@
 <application>
   <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
-    <EXCLUDED_PACKAGE NAME="sazabi.bid.core.SSP.Fluct$" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
 </application>
