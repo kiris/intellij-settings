@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Scala/String/Add .stripMargin" />
+    <ignoreAction name="Scala/Type/Adjust types" />
+  </component>
+</application>
