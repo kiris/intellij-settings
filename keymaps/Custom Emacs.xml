@@ -34,6 +34,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
