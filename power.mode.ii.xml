@@ -1,6 +1,14 @@
 <application>
   <component name="PowerModeII">
-    <option name="blueTo" value="182" />
-    <option name="shakeRange" value="0" />
+    <option name="blueTo" value="255" />
+    <option name="flameLife" value="0" />
+    <option name="gravityFactor" value="11.09" />
+    <option name="maxFlameSize" value="0" />
+    <option name="redFrom" value="0" />
+    <option name="shakeRange" value="2" />
+    <option name="sparkCount" value="20" />
+    <option name="sparkLife" value="2002" />
+    <option name="sparkSize" value="8" />
+    <option name="sparkVelocityFactor" value="4.37" />
   </component>
 </application>
