@@ -1,5 +1,6 @@
 <application>
   <component name="PowerModeII">
     <option name="blueTo" value="182" />
+    <option name="shakeRange" value="0" />
   </component>
 </application>
