@@ -1,11 +1,15 @@
 <application>
   <component name="PowerModeII">
     <option name="blueTo" value="255" />
+    <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="enabled" value="false" />
     <option name="flameLife" value="0" />
     <option name="gravityFactor" value="11.09" />
     <option name="maxFlameSize" value="0" />
     <option name="redFrom" value="0" />
     <option name="shakeRange" value="2" />
+    <option name="soundsFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="sparkCount" value="20" />
     <option name="sparkLife" value="2002" />
     <option name="sparkSize" value="8" />
