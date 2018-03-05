@@ -1,6 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor.URL" />
-    <EXCLUDED_PACKAGE NAME="sazabi.bid.core.SSP.Fluct$" />
-  </component>
-</application>
