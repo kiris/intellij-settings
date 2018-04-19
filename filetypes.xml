@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ContactLog" type="PLAIN_TEXT" />
+      <mapping pattern="aws.credentials" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
