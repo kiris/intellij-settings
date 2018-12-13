@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post(urlTemplate,uriVars)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder.param(name,values)" />
+        <added pattern="javax.servlet.http.Cookie.Cookie(name,value)" />
+        <added pattern="org.springframework.test.web.servlet.result.ContentResultMatchers.string(expectedContent)" />
+        <added pattern="org.springframework.test.web.servlet.result.CookieResultMatchers.doesNotExist(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
