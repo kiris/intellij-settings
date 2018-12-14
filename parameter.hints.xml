@@ -8,6 +8,10 @@
         <added pattern="org.springframework.test.web.servlet.result.ContentResultMatchers.string(expectedContent)" />
         <added pattern="org.springframework.test.web.servlet.result.CookieResultMatchers.doesNotExist(name)" />
       </blacklist>
+      <blacklist language="Scala">
+        <added pattern="esa4s.EsaClient.post(path,payload)" />
+        <added pattern="esa4s.EsaClient.patch(path,payload)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
